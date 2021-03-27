@@ -1,0 +1,4 @@
+core_cm0plus.h:848:22:__NVIC_SetPriority	24	static
+core_cm0plus.h:1054:26:SysTick_Config	16	static
+main.c:17:5:main	24	static
+main.c:43:6:delay_ms	24	static
